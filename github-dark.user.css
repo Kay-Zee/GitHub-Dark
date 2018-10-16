@@ -4148,6 +4148,7 @@
   .zhc-dependency-header__status__controls .zhc-btn:hover,
   .zhc-sidebar-nav-item__action:hover, .zhc-sidebar-nav-item__action--is-active,
   .zhc-reports-nav-item__sub-item:hover, .zhc-sidebar-profile__item:hover,
+  .zhc-btn--primary-bordered:hover,
   .zhc-sidebar-divider__bar {
     background: #333 !important;
   }
@@ -4225,7 +4226,8 @@
     filter: brightness(2) !important;
   }
   .zhc-dependency-issue-selector__issue-item-meta,
-  .zhc-selection-item--is-active span, .zhc-btn--tint {
+  .zhc-selection-item--is-active span, .zhc-btn--tint,
+  .zhc-btn--primary-bordered {
     color: #fff !important;
   }
   .zhc-dependency .zhu-text-important, .zhc-dependency-banner,
